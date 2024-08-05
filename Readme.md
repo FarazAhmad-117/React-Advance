@@ -2,6 +2,8 @@
 
 - React Concurrent Mode: Allows React to work on multiple tasks at once, improving the responsiveness of applications.
 
+  - If some one really wants to do research about it go and search `Concurent Features` or learn how to use `useDeferredValue` hook. Otherwise you can explore this repo 🤗.
+
 - React Suspense: Helps in handling asynchronous operations gracefully, particularly for data fetching and code splitting.
 
 - React Server Components: Enables server-side rendering of React components, enhancing performance by reducing client-side JavaScript.
